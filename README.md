@@ -7,3 +7,4 @@ Basic Arithmetic Functions: Perform addition, subtraction, multiplication, and d
 Error Handling: Built-in error messages for invalid input to enhance user experience.
 Clear Functionality: Effortlessly reset the input field for new calculations
 
+
